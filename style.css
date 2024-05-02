@@ -1,0 +1,10 @@
+h1{
+    background-color: black;
+    color: turquoise;
+    padding: 30px;
+    align-items:flex-start;
+    display: flex;
+    justify-content: left;
+    border: 4px solid;
+}
+
